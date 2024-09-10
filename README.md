@@ -19,6 +19,6 @@
 
 #### Top Repositories
 
-<a href="https://github.com/gianpaolof/gianpaolof.github.io">
+<a href="https://gianpaolof.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianpaolof&repo=gianpaolof.github.io&theme=buefy" />
 </a>
