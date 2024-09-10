@@ -1,5 +1,6 @@
-[![gianpaolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianpaolof)](https://github.com/gianpaolof/github-readme-stats)
-
+<a href="https://wakatime.com/@godkingjay" target="_blank">
+    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/wakatime?username=gianpaolof&theme=radical&layout=compact" alt="GP" width="540px">
+</a>
 #### Top Repositories
 
 <a href="https://github.com/gianpaolof/gianpaolof.github.io">
