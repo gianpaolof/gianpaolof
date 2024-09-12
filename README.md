@@ -1,4 +1,4 @@
-[![gianpaolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianpaolof)](https://github.com/gianpaolof/github-readme-stats)
+[![gianpaolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianpaolof&show_icons=true&theme=radical)](https://github.com/gianpaolof/github-readme-stats)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
