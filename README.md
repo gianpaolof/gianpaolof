@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpoZTNvYzEyZXJldGNzNm5ta25qN2YzajllNXE1eGYycGxpZWtpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tWXpn85vZ7non1inZn/giphy.gif" align="middle" alt="Banner" width="100%"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpoZTNvYzEyZXJldGNzNm5ta25qN2YzajllNXE1eGYycGxpZWtpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tWXpn85vZ7non1inZn/giphy.gif" align="middle" alt="Banner" width="70%"/>
 
 [![gianpaolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianpaolof&show_icons=true&theme=radical)](https://github.com/gianpaolof/github-readme-stats)
 
