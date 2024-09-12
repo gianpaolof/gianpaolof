@@ -1,5 +1,3 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpoZTNvYzEyZXJldGNzNm5ta25qN2YzajllNXE1eGYycGxpZWtpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tWXpn85vZ7non1inZn/giphy.gif" align="middle" alt="Banner" width="70%"/>
-
 [![gianpaolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianpaolof&show_icons=true&theme=radical)](https://github.com/gianpaolof/github-readme-stats)
 
 # 💻 Tech Stack:
@@ -27,4 +25,7 @@
 
 #### I'm currently listening to:
 [![Spotify](https://novatorem-gp72.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31sjaqnofawp6qkhk24ltj63kxgm)
+
+#### Let's not forget the people of Gaza
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpoZTNvYzEyZXJldGNzNm5ta25qN2YzajllNXE1eGYycGxpZWtpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tWXpn85vZ7non1inZn/giphy.gif" align="middle" alt="Banner" width="70%"/>
 
