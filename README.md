@@ -1,3 +1,5 @@
+<img src="https://giphy.com/gifs/palestine-gaza-quds-tWXpn85vZ7non1inZn" align="middle" alt="Banner" width="100%"/>
+
 [![gianpaolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianpaolof&show_icons=true&theme=radical)](https://github.com/gianpaolof/github-readme-stats)
 
 # 💻 Tech Stack:
