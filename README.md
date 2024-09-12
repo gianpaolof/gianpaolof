@@ -22,3 +22,7 @@
 <a href="https://gianpaolof.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianpaolof&repo=gianpaolof.github.io&theme=radical" />
 </a>
+
+#### Spotify
+[![Spotify](https://novatorem-gp72.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31sjaqnofawp6qkhk24ltj63kxgm)
+
