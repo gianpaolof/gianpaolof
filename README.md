@@ -33,10 +33,17 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gianpaolof&theme=tokyonight" height="150"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gianpaolof&theme=tokyonight" height="150"/>
-
 <div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gianpaolof&theme=tokyonight" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gianpaolof&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
   <img src="https://streak-stats.demolab.com?user=gianpaolof&theme=tokyonight&hide_border=true" />
 </div>
 
