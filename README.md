@@ -1,4 +1,4 @@
-[![gianpaolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianpaolof&show_icons=true&theme=radical)](https://github.com/gianpaolof/github-readme-stats)
+
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
@@ -17,11 +17,6 @@
 <br/>
 
 
-#### Top Repositories
-
-<a href="https://gianpaolof.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianpaolof&repo=gianpaolof.github.io&theme=radical" />
-</a>
 
 #### Let's not forget the people of Gaza
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpoZTNvYzEyZXJldGNzNm5ta25qN2YzajllNXE1eGYycGxpZWtpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tWXpn85vZ7non1inZn/giphy.gif" align="middle" alt="Banner" width="50%"/>
